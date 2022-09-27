@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Cyntia Flores</h1>
 <h3 align="center">Soy Ux-UI designer y diseñadora gráfica recibida en la UBA. Actualmente sigo capacitándome haciendo cursos y también de manera autodidacta.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **UX-UI designer en Codo a Codo / Ingles**
+- 🌱 Actualmente estoy aprendiendo **UX-UI designer en Codo a Codo / Inglés**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://drive.google.com/drive/folders/1r-2j_pfjkmu9Ss-cRuEIFFqVdSN-XSum?usp=sharing](https://drive.google.com/drive/folders/1r-2j_pfjkmu9Ss-cRuEIFFqVdSN-XSum?usp=sharing)
 
